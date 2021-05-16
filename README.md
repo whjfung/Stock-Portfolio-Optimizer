@@ -1,7 +1,7 @@
 # Stock-Portfolio-Optimizer
 
 # Description
-This program is inspired by Youtube channel Computer Science at https://www.youtube.com/watch?v=bvDkel5whUY with some improvements
+This program is inspired by Youtube channel Computer Science at https://www.youtube.com/watch?v=bvDkel5whUY with some improvements\n
 It extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
 using the efficient frontier.
 
