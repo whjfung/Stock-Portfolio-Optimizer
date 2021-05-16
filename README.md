@@ -1,11 +1,11 @@
 # Stock-Portfolio-Optimizer
 
-# Description: 
+# Description
 This program is inspired by Youtube channel Computer Science at https://www.youtube.com/watch?v=bvDkel5whUY
 It extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
 using the efficient frontier.
 
-# Instruction:
+# Instruction
 Run the file in the terminal and see the result.
 
 # DISCLAIMER
