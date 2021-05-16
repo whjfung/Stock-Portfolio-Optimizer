@@ -5,6 +5,9 @@ This program is inspired by Youtube channel Computer Science at https://www.yout
 It extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
 using the efficient frontier.
 
+# Instruction:
+Run the file in the terminal and see the result.
+
 # DISCLAIMER
 This program is for informational purposes only.  Use of and access to this program and the information, materials, services, and 
 other content available on or through this program (“Content”) are subject to these terms of use and all applicable laws.
