@@ -9,6 +9,7 @@ This program is for informational purposes only.  Use of and access to this prog
 other content available on or through this program (“Content”) are subject to these terms of use and all applicable laws.
 
 **NO INVESTMENT ADVICE**
+
 The Content is for informational purposes only, you should not construe any such information or other material as legal, tax, 
 investment, financial, or other advice. Nothing contained on our Site constitutes a solicitation, recommendation, endorsement, 
 or offer by whjfung or any third party service provider to buy or sell any securities or other financial instruments in this or in 
@@ -22,6 +23,7 @@ party service provider liable for any possible claim for damages arising from an
 Content made available to you through this program.
 
 **INVESTMENT RISKS**
+
 There are risks associated with investing in securities. Investing in stocks, bonds, exchange traded funds, mutual funds, and 
 money market funds involve risk of loss.  Loss of principal is possible. Some high risk investments may use leverage, which 
 will accentuate gains & losses. Foreign investing involves special risks, including a greater volatility and political, economic 
