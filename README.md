@@ -1,4 +1,4 @@
-# Stock-Portfolio-Optimizer
+# Stock Portfolio Optimizer
 
 # Description
 This algorithm extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
