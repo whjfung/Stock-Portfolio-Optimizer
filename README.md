@@ -1,9 +1,7 @@
 # Stock-Portfolio-Optimizer
 
 # Description
-This program is inspired by Youtube channel Computer Science at https://www.youtube.com/watch?v=bvDkel5whUY with some improvements
-
-It extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
+This algorithm extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
 using the efficient frontier.
 
 # Instruction
@@ -32,3 +30,6 @@ money market funds involve risk of loss.  Loss of principal is possible. Some hi
 will accentuate gains & losses. Foreign investing involves special risks, including a greater volatility and political, economic 
 and currency risks and differences in accounting methods.  A security’s or a firm’s past investment performance is not a guarantee 
 or predictor of future investment performance.
+
+# Credits
+Inspired by Youtube channel Computer Science at https://www.youtube.com/watch?v=bvDkel5whUY with some improvements
