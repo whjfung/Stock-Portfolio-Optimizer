@@ -4,14 +4,11 @@
 This algorithm extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
 using the efficient frontier.
 
-# Instruction
-Run the file in the terminal and see the result.
-
 # DISCLAIMER
 This program is for informational purposes only.  Use of and access to this program and the information, materials, services, and 
 other content available on or through this program (“Content”) are subject to these terms of use and all applicable laws.
 
-# NO INVESTMENT ADVICE
+**NO INVESTMENT ADVICE**
 The Content is for informational purposes only, you should not construe any such information or other material as legal, tax, 
 investment, financial, or other advice. Nothing contained on our Site constitutes a solicitation, recommendation, endorsement, 
 or offer by whjfung or any third party service provider to buy or sell any securities or other financial instruments in this or in 
@@ -24,7 +21,7 @@ such information or other Content. In exchange for using this program, you agree
 party service provider liable for any possible claim for damages arising from any decision you make based on information or other 
 Content made available to you through this program.
 
-# INVESTMENT RISKS
+**INVESTMENT RISKS**
 There are risks associated with investing in securities. Investing in stocks, bonds, exchange traded funds, mutual funds, and 
 money market funds involve risk of loss.  Loss of principal is possible. Some high risk investments may use leverage, which 
 will accentuate gains & losses. Foreign investing involves special risks, including a greater volatility and political, economic 
