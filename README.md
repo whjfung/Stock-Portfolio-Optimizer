@@ -2,7 +2,7 @@
 
 # Description
 This algorithm extracts live > 10Y historical data from Yahoo Finance and produces an optimized stock portfolio from S&P 500
-using the efficient frontier.
+using the efficient frontier in modern portfolio theory.
 
 # DISCLAIMER
 This program is for informational purposes only.  Use of and access to this program and the information, materials, services, and 
